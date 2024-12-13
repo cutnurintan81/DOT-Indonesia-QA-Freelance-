@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC-0002 (User Gagal Login Facebook)</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>27111962-f2fa-417b-b97f-ccd4f01dc161</testCaseGuid>
+</TestCaseEntity>

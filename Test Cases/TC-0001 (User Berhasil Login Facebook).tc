@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC-0001 (User Berhasil Login Facebook)</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>d1e52881-36cf-45eb-b3dc-a6a2f3e35916</testCaseGuid>
+</TestCaseEntity>
